@@ -92,6 +92,7 @@ nav li a{
     margin: 0 auto;
     background-color: #FFF8F3;
     padding: 130px 156px;
+    margin-bottom: 130px;
 }
 .about-section p{
     font-size: 20px;
@@ -118,5 +119,117 @@ th{
     padding-left: 50px;
     color: #474747;
     font-weight: 700;
+}
+/* About section end */
+
+/* Skill Section Start */
+.skill-section{
+    max-width: 1160px;
+    margin: 0 auto;
+}
+.skill-section h3{
+    font-size: 35px;
+    font-weight: 700;
+    text-align: center;
+}
+.skill-section p{
+    font-size: 20px;
+    color: #757575;
+    line-height: 30px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.skill{
+    display: flex;
+    gap: 24px;
+}
+.js{
+    height: 370px;
+    /* width: 270px; */
+    background-color: white;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06), -0px -6px 50px rgba(0, 0, 0, 0.06);
+    padding: 30px;
+    border-radius: 5px;
+}
+.js img{
+    margin-bottom: 30px;
+}
+.js h3{
+    font-size: 20px;
+    font-weight: 700;
+    text-align: left;
+}
+.js p{
+    color: #757575;
+    /* font-size: 18px; */
+    line-height: 28px;
+    text-align: left;
+}
+.react{
+    height: 370px;
+    width: 270;
+    background-color: white;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06), -0px -6px 50px rgba(0, 0, 0, 0.06);
+    padding: 30px;
+    border-radius: 5px;
+}
+.react img{
+    margin-bottom: 30px;
+}
+.react h3{
+    font-size: 20px;
+    font-weight: 700;
+    text-align: left;
+}
+.react p{
+    color: #757575;
+    /* font-size: 18px; */
+    line-height: 28px;
+    text-align: left;
+}
+.node-js{
+    height: 370px;
+    width: 270;
+    background-color: white;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06), -0px -6px 50px rgba(0, 0, 0, 0.06);
+    padding: 30px;
+    border-radius: 5px;
+}
+.node-js img{
+    margin-bottom: 30px;
+}
+.node-js h3{
+    font-size: 20px;
+    font-weight: 700;
+    text-align: left;
+}
+.node-js p{
+    color: #757575;
+    /* font-size: 18px; */
+    line-height: 28px;
+    text-align: left;
+}
+
+.mongo{
+    height: 370px;
+    width: 270;
+    background-color: white;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06), -0px -6px 50px rgba(0, 0, 0, 0.06);
+    padding: 30px;
+    border-radius: 5px;
+}
+.mongo img{
+    margin-bottom: 30px;
+}
+.mongo h3{
+    font-size: 20px;
+    font-weight: 700;
+    text-align: left;
+}
+.mongo p{
+    color: #757575;
+    /* font-size: 18px; */
+    line-height: 28px;
+    text-align: left;
 }
 
