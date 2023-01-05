@@ -236,6 +236,7 @@ th{
     line-height: 28px;
     text-align: left;
 }
+/* Skill Style */
 .resume{
     display: flex;
     gap: 24px;
@@ -291,4 +292,47 @@ th{
     text-decoration: none;
     color: white;
     margin: 0 auto;
+}
+.contact{
+    display: flex;
+    background-color: #FFF8F3;
+    margin-top: 100px;
+}
+.contact-title{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.contact-description{
+    color: #474747;
+    line-height: 28px;
+    margin-bottom: 30px;
+}
+.connect-us{
+    padding: 130px 230px;
+}
+.form{
+    padding: 130px;
+    padding-right: 230px;
+}
+.connect-us img{
+    margin-left: 20px;
+}
+.form input[type="text"],[type="email"]{
+    height: 64px;
+    width: 460px;
+    margin-bottom: 24px;
+    padding: 10px 30px;
+    border: 0;
+}
+.form-area{
+    border: 0;
+}
+.form-button{
+    color: white;
+    background-color: #FD6E0A;
+    padding: 12px 26px;
+    border: 0;
+    border-radius: 5px;
+    margin-top: 24px;
+
 }
